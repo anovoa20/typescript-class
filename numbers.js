@@ -1,6 +1,6 @@
 "use strict";
 (() => {
-    let avengers = 10;
+    let avengers = 100;
     const villans = 20;
     if (avengers < villans) {
         console.log('estamos en problemas');

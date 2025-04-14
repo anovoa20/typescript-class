@@ -1,5 +1,5 @@
 (() => {
-    let avengers: number = 10;
+    let avengers: number = 100;
     const  villans: number = 20;   
 
     if (avengers < villans){
@@ -11,5 +11,7 @@
 
     avengers = Number('55A');
     console.log({avengers});
+
+
 }
 )()
