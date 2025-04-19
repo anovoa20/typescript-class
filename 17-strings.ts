@@ -11,9 +11,7 @@
 
         console.log(`I'm ${ batman[0] }`);
         console.log(`I'm ${ batman[10]?.toLocaleUpperCase() || "El recuerdo del que no está." }`);
-
-
-
+        console.log(`Este señor es ${linternaVerde[2].toLocaleUpperCase()==="D"||"P"}`);
 
 
     }
