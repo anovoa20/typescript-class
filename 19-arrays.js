@@ -12,6 +12,7 @@
     //Other Example
     const villians = ['Omega', 'Dormammu', 'Duende Verde'];
     villians.forEach(v => console.log(v.toLocaleUpperCase()));
+    console.log(villians);
     numbers.forEach(v => console.log(v));
     numbers.forEach(function (v) {
         console.log(v);

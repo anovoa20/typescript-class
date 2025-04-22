@@ -21,6 +21,8 @@
             v => console.log(v.toLocaleUpperCase())
         );
 
+        console.log(villians);
+
         numbers.forEach (
             v => console.log(v)
             
